@@ -1,4 +1,4 @@
-movie_list = [] # All movies will be stored inside movie_list
+movie_list = [] # All movies will be stored inside the movie_list array
 
 
 ##### FUNCTIONS #####
